@@ -2,7 +2,7 @@
     "external_url": "", 
     "image": "https://raw.githubusercontent.com/tfHighlander/you-pixel/main/SportMode%20prova.png", 
     "name": "SportMode",
-    "background_color":"",
+    "background_color":"#000000",
 "attributes":[
     {
         "trait_type": "Collab", 
