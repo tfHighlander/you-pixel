@@ -1,0 +1,31 @@
+{"description": "test", 
+    "external_url": "", 
+    "image": "https://raw.githubusercontent.com/tfHighlander/you-pixel/main/SportMode%20prova.png", 
+    "name": "SportMode",
+    "background_color":"",
+"attributes":[
+    {
+        "trait_type": "Collab", 
+        "value": ""
+      }, 
+      {
+        "trait_type": "Type", 
+        "value": "test"
+      }, 
+      {
+        "trait_type": "Color", 
+        "value": "Purple"
+      }, 
+      
+      {
+        "trait_type":"Rarity",
+        "value":"Tipotroppo"
+      },
+      {
+        "trait_type": "Stamina", 
+        "value": 50
+      }
+      
+
+
+]}
